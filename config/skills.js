@@ -1016,12 +1016,14 @@ module.exports = {
 		3: { // Lightning Trap
 			0: true,
 		},
+		/*
 		4: { // Arcane Pulse
 			0: true,
 			10: { noRetry: true },
 			11: { noRetry: true },
 			12: { noRetry: true }
 		},
+		*/
 		5: { // Mana Infusion
 			0: true
 		},
@@ -1144,6 +1146,7 @@ module.exports = {
 			0: true,
 			50: true
 		},
+		/*
 		33: { // Arcane Pulse (Mana Boost)
 			'*': { noRetry: true },
 			10: true,
@@ -1151,6 +1154,7 @@ module.exports = {
 			12: true,
 			50: true
 		},
+		*/
 		34: { // Mana Boost
 			0: true
 		},

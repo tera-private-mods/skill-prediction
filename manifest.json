@@ -12,7 +12,7 @@
         "config/abnormalities.js": "037460fe381086236482aeb6ab7b812155a3370c67aebae97e5665ac399fac8e",
         "config/skills.js": {
             "overwrite": false,
-            "hash": "59a9bbf76cf0edaf290ce691f3f8def31a5a59e803764e5ba398523191ba8855"
+            "hash": "de67cc1b2efba14bfe50c913ffb50528eb485bb99a91a64f1de598e90d6e1bd6"
         },
         "lib/abnormalities.js": "cd4195728c6f57b0d55a4b85368512d7bdf99c8693d0c891d7233a82218df645",
         "lib/commands.js": "88ad8919eb166a7cd0cba4aae9a3c2981219f45f486f97a4ec63d4ef48feb095",
